@@ -3,10 +3,10 @@ body {
 	align-items: center;
 	justify-content: center;
 	height: 100vh;
-	background-color: rgb(37, 2, 32);
+	background-color: rgb(60, 179, 205);
 }
 h1 {
-	font-size: 20vw;
+	font-size: 23vw;
 	font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
 }
 
